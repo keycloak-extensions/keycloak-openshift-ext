@@ -12,8 +12,7 @@
   <url>http://www.example.com</url>
 
   <properties>
-    <!-- TODO: Change this to Keycloak 22 once it is released -->
-    <keycloak.version>999.0.0-SNAPSHOT</keycloak.version>
+    <keycloak.version>22.0.0</keycloak.version>
 
     <!-- Openshift client and it's dependencies -->
     <openshift-client.version>9.0.5.Final</openshift-client.version>
